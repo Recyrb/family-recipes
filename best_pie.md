@@ -5,3 +5,5 @@ Title: Pie and ice cream
 * Ice Cream
 
 ## Directions
+1. Buy yummy pie
+2. Buy yummy ice cream
